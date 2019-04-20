@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "audio", "audio\audio.pyproj", "{FD986E28-E8A1-4CBF-80BA-C3E30F72FD43}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "video", "video\video.pyproj", "{DF72E7C5-2CBC-476E-AE63-9CC284436A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD986E28-E8A1-4CBF-80BA-C3E30F72FD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD986E28-E8A1-4CBF-80BA-C3E30F72FD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF72E7C5-2CBC-476E-AE63-9CC284436A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF72E7C5-2CBC-476E-AE63-9CC284436A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201DE71C-A3C5-4782-A06C-75BEF0911F19}
+	EndGlobalSection
+EndGlobal
